@@ -9,12 +9,20 @@
             "createdAt": "2024-11-13T17:59:42.937Z"
         },
         {
-            "id": 1,
+            "id": 2,
             "description": "Hamburguer",
             "type": "outcome",
             "category": "Alimentação",
             "price": 50,
             "createdAt": "2024-11-13T17:50:42.937Z"
+        },
+        {
+            "id": 3,
+            "description": "Curso",
+            "type": "outcome",
+            "category": "Educação",
+            "price": 150,
+            "createdAt": "2024-11-17T17:50:42.937Z"
         }
     ]
 }
